@@ -1,0 +1,12 @@
+C:\Users\erayy\source\repos\YetkiliGirişi\bin\Debug\YetkiliGirişi.exe.config
+C:\Users\erayy\source\repos\YetkiliGirişi\bin\Debug\YetkiliGirişi.exe
+C:\Users\erayy\source\repos\YetkiliGirişi\bin\Debug\YetkiliGirişi.pdb
+C:\Users\erayy\source\repos\YetkiliGirişi\obj\Debug\YetkiliGirişi.csproj.AssemblyReference.cache
+C:\Users\erayy\source\repos\YetkiliGirişi\obj\Debug\YetkiliGirişi.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayy\source\repos\YetkiliGirişi\obj\Debug\YetkiliGirişi.Form1.resources
+C:\Users\erayy\source\repos\YetkiliGirişi\obj\Debug\YetkiliGirişi.Properties.Resources.resources
+C:\Users\erayy\source\repos\YetkiliGirişi\obj\Debug\YetkiliGirişi.csproj.GenerateResource.cache
+C:\Users\erayy\source\repos\YetkiliGirişi\obj\Debug\YetkiliGirişi.csproj.CoreCompileInputs.cache
+C:\Users\erayy\source\repos\YetkiliGirişi\obj\Debug\YetkiliGirişi.exe
+C:\Users\erayy\source\repos\YetkiliGirişi\obj\Debug\YetkiliGirişi.pdb
+C:\Users\erayy\source\repos\YetkiliGirişi\obj\Debug\YetkiliGirişi.Form2.resources
